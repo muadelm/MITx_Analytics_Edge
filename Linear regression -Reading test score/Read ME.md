@@ -1,4 +1,4 @@
-Linear Regression
+# Linear Regression
 
 
 The project will take oytu through the process of applyign linear regression while explaining the results from model evaluation and making predictions. 
