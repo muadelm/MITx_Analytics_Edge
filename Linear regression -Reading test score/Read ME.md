@@ -1,8 +1,14 @@
 # Linear Regression
 
 
-The project will take oytu through the process of applyign linear regression while explaining the results from model evaluation and making predictions. 
+# Linear regression model to predict wine price
 
-The work will introduce EDA (Exploratory Data Analysis) and data cleaning. 
+## packages:
+The work uses statsmodels package to develope linear regression models.
 
-The package MissingNo will be used to investigate missing data.
+## Methodology
+The work follows the framwork proposed by IBM to process data. 
+The work starts with data exploration, presenting relations between dataframe paramerts though correlation plot, pairplot, and scatter plots. 
+
+## Evaluation
+The models were assessed on the r-squared evaluation metric. 
