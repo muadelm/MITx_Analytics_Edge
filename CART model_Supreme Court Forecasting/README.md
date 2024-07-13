@@ -1,6 +1,8 @@
-# The project is part of the MITx analytics edge course
+# The project is part of the MITx Analytics Edge course
 
-It shows how to:
+Part of the course is directed toward explaining end to end how to apply, build, and assess tree models.
+
+The project aims to show the following:
 * build decision tree models
 * visualize the decision tree model
 * evaluate the model using classification report, confusion matrix and accuracy metric
