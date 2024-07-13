@@ -6,3 +6,6 @@ The project aims to show the following:
 * build decision tree models
 * visualize the decision tree model
 * evaluate the model using a classification report, confusion matrix, and accuracy metric
+
+## Illustrations of the concepts with one example are available on my medium account in the following link
+https://medium.com/p/934474910aec
